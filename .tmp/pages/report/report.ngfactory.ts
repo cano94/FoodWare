@@ -510,7 +510,7 @@ class _View_ReportsPage0 extends import1.AppView<import3.ReportsPage> {
   }
 }
 export function viewFactory_ReportsPage0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.ReportsPage> {
-  if ((renderType_ReportsPage === (null as any))) { (renderType_ReportsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/report/report.html',0,import13.ViewEncapsulation.None,styles_ReportsPage,{})); }
+  if ((renderType_ReportsPage === (null as any))) { (renderType_ReportsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/report/report.html',0,import13.ViewEncapsulation.None,styles_ReportsPage,{})); }
   return new _View_ReportsPage0(viewUtils,parentInjector,declarationEl);
 }
 class _View_ReportsPage1 extends import1.AppView<any> {

@@ -194,7 +194,7 @@ var _View_OldReports0 = (function (_super) {
 }(import1.AppView));
 export function viewFactory_OldReports0(viewUtils, parentInjector, declarationEl) {
     if ((renderType_OldReports === null)) {
-        (renderType_OldReports = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/old-reports/old-reports.html', 0, import9.ViewEncapsulation.None, styles_OldReports, {}));
+        (renderType_OldReports = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/old-reports/old-reports.html', 0, import9.ViewEncapsulation.None, styles_OldReports, {}));
     }
     return new _View_OldReports0(viewUtils, parentInjector, declarationEl);
 }

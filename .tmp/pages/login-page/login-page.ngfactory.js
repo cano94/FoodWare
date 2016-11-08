@@ -831,7 +831,7 @@ var _View_LoginPage0 = (function (_super) {
 }(import1.AppView));
 export function viewFactory_LoginPage0(viewUtils, parentInjector, declarationEl) {
     if ((renderType_LoginPage === null)) {
-        (renderType_LoginPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/login-page/login-page.html', 0, import12.ViewEncapsulation.None, styles_LoginPage, {}));
+        (renderType_LoginPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/login-page/login-page.html', 0, import12.ViewEncapsulation.None, styles_LoginPage, {}));
     }
     return new _View_LoginPage0(viewUtils, parentInjector, declarationEl);
 }

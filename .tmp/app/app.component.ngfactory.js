@@ -109,7 +109,7 @@ var _View_MyApp0 = (function (_super) {
 }(import1.AppView));
 export function viewFactory_MyApp0(viewUtils, parentInjector, declarationEl) {
     if ((renderType_MyApp === null)) {
-        (renderType_MyApp = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/app/app.component.ts class MyApp - inline template', 0, import10.ViewEncapsulation.None, styles_MyApp, {}));
+        (renderType_MyApp = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/app/app.component.ts class MyApp - inline template', 0, import10.ViewEncapsulation.None, styles_MyApp, {}));
     }
     return new _View_MyApp0(viewUtils, parentInjector, declarationEl);
 }

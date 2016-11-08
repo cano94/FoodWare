@@ -420,7 +420,7 @@ class _View_FirmsPage0 extends import1.AppView<import3.FirmsPage> {
   }
 }
 export function viewFactory_FirmsPage0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.FirmsPage> {
-  if ((renderType_FirmsPage === (null as any))) { (renderType_FirmsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/firms/firms.html',0,import15.ViewEncapsulation.None,styles_FirmsPage,{})); }
+  if ((renderType_FirmsPage === (null as any))) { (renderType_FirmsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/firms/firms.html',0,import15.ViewEncapsulation.None,styles_FirmsPage,{})); }
   return new _View_FirmsPage0(viewUtils,parentInjector,declarationEl);
 }
 class _View_FirmsPage1 extends import1.AppView<any> {

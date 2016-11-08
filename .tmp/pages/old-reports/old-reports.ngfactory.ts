@@ -203,6 +203,6 @@ class _View_OldReports0 extends import1.AppView<import3.OldReports> {
   }
 }
 export function viewFactory_OldReports0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.OldReports> {
-  if ((renderType_OldReports === (null as any))) { (renderType_OldReports = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/old-reports/old-reports.html',0,import9.ViewEncapsulation.None,styles_OldReports,{})); }
+  if ((renderType_OldReports === (null as any))) { (renderType_OldReports = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/old-reports/old-reports.html',0,import9.ViewEncapsulation.None,styles_OldReports,{})); }
   return new _View_OldReports0(viewUtils,parentInjector,declarationEl);
 }

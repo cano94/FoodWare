@@ -396,7 +396,7 @@ var _View_FirmsPage0 = (function (_super) {
 }(import1.AppView));
 export function viewFactory_FirmsPage0(viewUtils, parentInjector, declarationEl) {
     if ((renderType_FirmsPage === null)) {
-        (renderType_FirmsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/firms/firms.html', 0, import15.ViewEncapsulation.None, styles_FirmsPage, {}));
+        (renderType_FirmsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/firms/firms.html', 0, import15.ViewEncapsulation.None, styles_FirmsPage, {}));
     }
     return new _View_FirmsPage0(viewUtils, parentInjector, declarationEl);
 }

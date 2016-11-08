@@ -875,6 +875,6 @@ class _View_LoginPage0 extends import1.AppView<import3.LoginPage> {
   }
 }
 export function viewFactory_LoginPage0(viewUtils:import4.ViewUtils,parentInjector:import5.Injector,declarationEl:import2.AppElement):import1.AppView<import3.LoginPage> {
-  if ((renderType_LoginPage === (null as any))) { (renderType_LoginPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/login-page/login-page.html',0,import12.ViewEncapsulation.None,styles_LoginPage,{})); }
+  if ((renderType_LoginPage === (null as any))) { (renderType_LoginPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/login-page/login-page.html',0,import12.ViewEncapsulation.None,styles_LoginPage,{})); }
   return new _View_LoginPage0(viewUtils,parentInjector,declarationEl);
 }

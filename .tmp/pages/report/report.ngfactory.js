@@ -471,7 +471,7 @@ var _View_ReportsPage0 = (function (_super) {
 }(import1.AppView));
 export function viewFactory_ReportsPage0(viewUtils, parentInjector, declarationEl) {
     if ((renderType_ReportsPage === null)) {
-        (renderType_ReportsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/New folder/authApp/.tmp/pages/report/report.html', 0, import13.ViewEncapsulation.None, styles_ReportsPage, {}));
+        (renderType_ReportsPage = viewUtils.createRenderComponentType('C:/Users/cano/Desktop/FoodWare/authApp/.tmp/pages/report/report.html', 0, import13.ViewEncapsulation.None, styles_ReportsPage, {}));
     }
     return new _View_ReportsPage0(viewUtils, parentInjector, declarationEl);
 }
