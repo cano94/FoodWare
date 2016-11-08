@@ -1,0 +1,186 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DESKTOP-16G90TH</Machine>
+    <WindowsUser>cano</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>39d29210-9fbf-11e6-8207-e92de2be9d11</PackageIdentityName>
+    <PackageIdentityPublisher>CN=Apache Cordova Team</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\cano\Desktop\authApp\platforms\windows\build\windows\bld\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <RegisteredManifestChecksum>53F65ADB5504A828B6D2259D540085D5F02D559CC2B1B50E2CBBAC035A21DBF2</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>com.ionicframework.authapp510344_0.0.1.0_x64__h35559jr9hy9m</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>com.ionicframework.authapp510344_h35559jr9hy9m!com.ionicframework.authapp510344</RegisteredUserModeAppID>
+    <RegisteredPackageID>com.ionicframework.authapp510344</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Apache Cordova Team</RegisteredPackagePublisher>
+    <RegisteredVersion>0.0.1.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\cano\Desktop\authApp\platforms\windows\build\windows\debug\x64\win10\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:17:30.856</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\SplashScreen.scale-100.png">
+      <PackagePath>images\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square150x150Logo.scale-100.png">
+      <PackagePath>images\Square150x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square30x30Logo.scale-100.png">
+      <PackagePath>images\Square30x30Logo.scale-100.png</PackagePath>
+      <Modified>2016-10-31T23:10:34.264</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square310x310Logo.scale-100.png">
+      <PackagePath>images\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square44x44Logo.scale-100.png">
+      <PackagePath>images\Square44x44Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square70x70Logo.scale-100.png">
+      <PackagePath>images\Square70x70Logo.scale-100.png</PackagePath>
+      <Modified>2016-10-31T23:10:34.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Square71x71Logo.scale-100.png">
+      <PackagePath>images\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.280</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\StoreLogo.scale-100.png">
+      <PackagePath>images\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\images\Wide310x150Logo.scale-100.png">
+      <PackagePath>images\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:10:34.296</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\assets\fonts\ionicons.eot">
+      <PackagePath>www\assets\fonts\ionicons.eot</PackagePath>
+      <Modified>2016-10-31T23:17:28.293</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\assets\fonts\ionicons.svg">
+      <PackagePath>www\assets\fonts\ionicons.svg</PackagePath>
+      <Modified>2016-10-31T23:17:28.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\assets\fonts\ionicons.ttf">
+      <PackagePath>www\assets\fonts\ionicons.ttf</PackagePath>
+      <Modified>2016-10-31T23:17:28.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\assets\fonts\ionicons.woff">
+      <PackagePath>www\assets\fonts\ionicons.woff</PackagePath>
+      <Modified>2016-10-31T23:17:28.309</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\assets\fonts\ionicons.woff2">
+      <PackagePath>www\assets\fonts\ionicons.woff2</PackagePath>
+      <Modified>2016-10-31T23:17:28.325</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\build\main.css">
+      <PackagePath>www\build\main.css</PackagePath>
+      <Modified>2016-10-31T23:17:29.731</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\build\main.js">
+      <PackagePath>www\build\main.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.059</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\build\polyfills.js">
+      <PackagePath>www\build\polyfills.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\cordova-js-src\exec.js">
+      <PackagePath>www\cordova-js-src\exec.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\cordova-js-src\platform.js">
+      <PackagePath>www\cordova-js-src\platform.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\cordova.js">
+      <PackagePath>www\cordova.js</PackagePath>
+      <Modified>2016-10-31T23:17:28.715</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\cordova_plugins.js">
+      <PackagePath>www\cordova_plugins.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-console\www\console-via-logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\console-via-logger.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-console\www\logger.js">
+      <PackagePath>www\plugins\cordova-plugin-console\www\logger.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-device\src\windows\DeviceProxy.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-device\www\device.js">
+      <PackagePath>www\plugins\cordova-plugin-device\www\device.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\src\windows\StatusBarProxy.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\cordova-plugin-statusbar\www\statusbar.js">
+      <PackagePath>www\plugins\cordova-plugin-statusbar\www\statusbar.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js">
+      <PackagePath>www\plugins\ionic-plugin-keyboard\src\windows\KeyboardProxy.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.215</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\service-worker.js">
+      <PackagePath>www\service-worker.js</PackagePath>
+      <Modified>2016-10-31T23:17:30.231</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\WinJS\js\base.js">
+      <PackagePath>www\WinJS\js\base.js</PackagePath>
+      <Modified>2016-10-31T23:17:29.153</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\build\main.js.map">
+      <PackagePath>www\build\main.js.map</PackagePath>
+      <Modified>2016-10-31T23:17:28.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\index.html">
+      <PackagePath>www\index.html</PackagePath>
+      <Modified>2016-10-31T23:17:30.168</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\www\manifest.json">
+      <PackagePath>www\manifest.json</PackagePath>
+      <Modified>2016-10-31T23:17:30.184</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\config.xml">
+      <PackagePath>config.xml</PackagePath>
+      <Modified>2016-10-31T23:17:28.262</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\cano\Desktop\authApp\platforms\windows\build\windows\debug\x64\win10\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2016-10-31T23:17:30.715</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

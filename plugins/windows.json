@@ -1,0 +1,27 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-console": {
+            "PACKAGE_NAME": "authApp"
+        },
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "authApp"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "authApp"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "authApp"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "authApp"
+        }
+    },
+    "dependent_plugins": {}
+}

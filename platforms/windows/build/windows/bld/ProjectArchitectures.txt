@@ -1,0 +1,1 @@
+C:\Users\cano\Desktop\authApp\platforms\windows\CordovaApp.Windows10.jsproj;x64

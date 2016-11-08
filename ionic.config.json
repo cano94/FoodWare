@@ -1,0 +1,12 @@
+{
+  "name": "authApp",
+  "app_id": "",
+  "proxies": [
+  {
+   "path": "/*",
+   "proxyUrl": "http://foodware.ilogic.com.tr/*"
+  }
+  ],
+  "v2": true,
+  "typescript": true
+}

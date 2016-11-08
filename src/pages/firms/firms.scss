@@ -1,0 +1,28 @@
+.ios, .md {
+
+page-firms {
+
+  ion-content{
+    background-color: #ffffff;
+  }
+
+   ion-row {
+            align-items: center;
+            text-align: center;
+        }
+
+    .firm-report{
+            //border-radius: 30px;
+            font-size: 0.9em;
+            text-align: 'center';
+            background-color: 'kebap';
+            border: 1px solid #35363A;
+            
+    }
+
+    .firm-form {
+            flex: 1;
+        }
+  }
+  
+}
